@@ -36,13 +36,13 @@ body .main {
           flex: 1 0 auto;
   width: 1006px;
   margin: 0 auto;
-  background: url(../images/body-bg.gif);
+  background: url(../images/body-bg.jpg);
 }
 
 body .footer {
   width: 1006px;
   margin: 0 auto;
-  background: url(../images/body-bg.gif);
+  background: url(../images/body-bg.jpg);
 }
 
 body .footer .container {
@@ -73,5 +73,5 @@ body .footer__body {
   width: 1006px;
   height: 213px;
   margin: 0 auto;
-  background: url(../images/header-bg.png);
+  background: url(../images/header-bg.jpg);
 }
